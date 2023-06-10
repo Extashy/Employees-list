@@ -1,7 +1,7 @@
 # Employees List
 ![HomePage](~/../public/HomePage.jpg)
 ![EmployeesPage](~/../public/EmployeesPage.jpg)
-🌹 Link: https://employees-list.netlify.app/
+🌹 Link: https://employeeslist.netlify.app/
 ## :pushpin: What is it?
 List of employees app.
 ## :pushpin: What is used?
