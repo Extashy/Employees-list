@@ -1,0 +1,17 @@
+// Общие стили проекта
+
+body {
+  font-family: 'Playfair Display', serif;
+  font-style: italic;
+  color: #e8e8e8;
+  background: no-repeat url(../images/Background.jpg);
+  -moz-background-size: 100%;
+  -webkit-background-size: 100%;
+  -o-background-size: 100%;
+  background-size: cover;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
